@@ -4,10 +4,6 @@
 
 ech0 is a framework to easily create LLM powered bots over any dataset. ech0js is Javascript version of ech0. If you want a python version, check out [ech0-python](https://github.com/ech0ai/ech0)
 
-# 🤝 Let's Talk Embedchain!
-
-Schedule a [Feedback Session](https://cal.com/taranjeetio/ec) with Taranjeet, the founder, to discuss any issues, provide feedback, or explore improvements.
-
 # How it works
 
 It abstracts the entire process of loading dataset, chunking it, creating embeddings and then storing in vector database.
