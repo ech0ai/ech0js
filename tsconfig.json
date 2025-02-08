@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "CommonJS",
+    "strict": true,
+    "outDir": "dist",
+    "rootDir": "ech0",
+    "sourceMap": true,
+    "declaration": true,
+    "declarationDir": "types",
+    "esModuleInterop": true
+  },
+  "include": ["ech0/**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}
