@@ -1,10 +1,8 @@
 # ech0js
 
-[![Discord](https://dcbadge.vercel.app/api/server/CUU9FPhRNt?style=flat)](https://discord.gg/CUU9FPhRNt)
-[![Twitter](https://img.shields.io/twitter/follow/ech0)](https://twitter.com/ech0)
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?logo=substack)](https://ech0.substack.com/)
+[![Twitter](https://img.shields.io/twitter/follow/ech0_ai)](https://twitter.com/ech0_ai)
 
-ech0 is a framework to easily create LLM powered bots over any dataset. ech0js is Javascript version of ech0. If you want a python version, check out [ech0-python](https://github.com/ech0/ech0)
+ech0 is a framework to easily create LLM powered bots over any dataset. ech0js is Javascript version of ech0. If you want a python version, check out [ech0-python](https://github.com/ech0ai/ech0)
 
 # 🤝 Let's Talk Embedchain!
 
@@ -237,27 +235,4 @@ ech0 is built on the following stack:
 - [OpenAI's ChatGPT API](https://platform.openai.com/docs/guides/gpt/chat-completions-api) as LLM to get answers given the context
 - [Chroma](https://github.com/chroma-core/chroma) as the vector database to store embeddings
 
-# Team
-
-## Author
-
-- Taranjeet Singh ([@taranjeetio](https://twitter.com/taranjeetio))
-
-## Maintainer
-
-- [cachho](https://github.com/cachho)
-- [sahilyadav902](https://github.com/sahilyadav902)
-
-## Citation
-
-If you utilize this repository, please consider citing it with:
-```
-@misc{ech0,
-  author = {Taranjeet Singh},
-  title = {Embechain: Framework to easily create LLM powered bots over any dataset},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/ech0/ech0js}},
-}
 ```
